@@ -1,0 +1,89 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}  
+  
+  .background{
+background-image: url(./chalkboard-background-with-frame-layouts-free-space-rough-texture-studio-lighting_47726-11013.avif);
+height: 300vh;
+background-size: cover;         
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.logo{
+    border-radius: 50%;
+    height: 80px;
+    margin-left: 60PX;
+}
+.linkitems{
+    display: inline-block;
+    margin: 20px 20px;
+}
+.items{
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    color:white;
+    font-family: 'Pacifico', cursive;
+}
+.img{
+    border:3px solid black;
+    height:400px
+}
+.items:hover{
+color: rgb(246, 18, 18);}
+
+.ite{
+    display: inline-block;
+    margin: 10px 10px;
+}
+.iconset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    gap: 2rem;
+}
+.icon{
+    font-size: 50px;
+    color: green;
+}
+.icon:hover{
+    color: antiquewhite        ;
+}
+.tag{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.tas{
+    color: rgb(29, 7, 152);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.tad{
+    color: chartreuse;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+.ter{
+    color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.TG{
+    color:rgb(84, 40, 187);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.poo{
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.accordion-button {
+color: aqua;
+}
+.footer{
+    background-color: rgb(19, 180, 38);
+}

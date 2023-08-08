@@ -1,0 +1,111 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}  
+  
+  .background{
+background-image: url(./chalkboard-background-with-frame-layouts-free-space-rough-texture-studio-lighting_47726-11013.avif);
+height:300vh;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.logo{
+    border-radius: 50%;
+    height: 80px;
+    margin-left: 60PX;
+}
+.linkitems{
+    display : inline-block;
+    margin: 20px 20px;
+}
+.items{
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    color:white;
+    font-family: 'Pacifico', cursive;
+}
+.img{
+    border:3px solid black;
+    height:400px
+}
+.items:hover{
+color: rgb(211, 33, 33);
+
+
+}
+.img:hover{
+    transform: scale(1.2);
+}
+.head{
+    margin-left: 750px;
+    font-size:70px;
+    font-family: 'Rubik Moonrocks', cursive;
+color: rgb(26, 143, 211)  ;
+margin-top: 60px;
+}
+.puttu{
+    font-size: 70px;
+    color: green;
+}
+.sub{
+    color: rgb(97, 245, 5);
+    margin-left: 750px;
+    margin-top: 100px;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 60px;
+
+}
+
+.sub:hover{
+    color: blue;
+}
+.para{
+    font-family: 'Tektur', cursive;
+
+    color: antiquewhite;
+    font-size: 20px;
+
+}
+.para:hover{
+    color: brown;
+}
+.TIT{
+    color:blue;
+    font-family: 'Rubik Moonrocks', cursive;
+    margin-left: 870px;
+
+}
+
+
+.head{
+    margin-top: 100px;
+
+}
+
+
+.ite{
+    display: inline-block;
+    margin: 10px 10px;
+}
+.item:hover{
+    color: beige;
+}
+.iconset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    gap: 2rem;
+}
+.icon{
+    font-size: 50px;
+    color: green;
+}
+.OIY:hover{
+    color: antiquewhite        ;
+}
+.footer{
+    background-color: rgb(8, 222, 47);
+}
